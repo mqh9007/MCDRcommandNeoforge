@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "package": "com.mqh9007.neomcdrcommandreg.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "CommandNodeAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

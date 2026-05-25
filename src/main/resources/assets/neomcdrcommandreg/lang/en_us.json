@@ -1,0 +1,13 @@
+{
+  "itemGroup.neomcdrcommandreg": "Example Mod Tab",
+  "block.neomcdrcommandreg.example_block": "Example Block",
+  "item.neomcdrcommandreg.example_item": "Example Item",
+
+  "neomcdrcommandreg.configuration.title": "neoMCDRcommandreg Configs",
+  "neomcdrcommandreg.configuration.section.neomcdrcommandreg.common.toml": "neoMCDRcommandreg Configs",
+  "neomcdrcommandreg.configuration.section.neomcdrcommandreg.common.toml.title": "neoMCDRcommandreg Configs",
+  "neomcdrcommandreg.configuration.items": "Item List",
+  "neomcdrcommandreg.configuration.logDirtBlock": "Log Dirt Block",
+  "neomcdrcommandreg.configuration.magicNumberIntroduction": "Magic Number Text",
+  "neomcdrcommandreg.configuration.magicNumber": "Magic Number"
+}
